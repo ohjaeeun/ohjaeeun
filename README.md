@@ -1,11 +1,17 @@
 
 ## Jaeeun Oh
 📍 Seo-gu, Daegu | 📧 ojo8573@naver.com | 📞 +82 010-7182-8573
+
 🎓 Bioengineering & Biomedical Engineering student at Hankuk University of Foreign Studies
+
 🧬 Passionate about Medical AI and Data Science
+
 🏥 Aspiring researcher in healthcare innovation
+
 🐍 Python | PyTorch | TensorFlow | Scikit-learn
+
 🔬 Interested in deep learning for medical imaging and personalized medicine
+
 📚 Aiming for graduate studies in Medical Informatics
 
 ## Skills
