@@ -8,11 +8,10 @@
 
 🏥 Aspiring researcher in healthcare innovation
 
-🐍 Python | PyTorch | TensorFlow | Scikit-learn
+📚 Python | PyTorch | TensorFlow | Scikit-learn
 
 🔬 Interested in deep learning for medical imaging and personalized medicine
 
-📚 Aiming for graduate studies in Medical Informatics
 
 ## Skills
 #### I use it often.
