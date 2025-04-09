@@ -1,20 +1,18 @@
 
-## Jaeeun Oh
-📍 Seo-gu, Daegu | 📧 ojo8573@naver.com | 📞 +82 010-7182-8573
+## Jaeeun Oh 
+
+📍 Daegu, South Korea
+
+📧 ojo8573@naver.com / wodms0612@gmail.com
 
 🎓 Bioengineering & Biomedical Engineering student at Hankuk University of Foreign Studies
 
-🧬 Passionate about Medical AI and Data Science
+📚 Interested in AI-based computer vision for visual enhancement
 
-🏥 Aspiring researcher in healthcare innovation
-
-📚 Python | PyTorch | TensorFlow | Scikit-learn
-
-🔬 Interested in deep learning for medical imaging and personalized medicine
 
 
 ## Skills
-#### I use it often.
+#### I use it often
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/tesorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
